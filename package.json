@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "autoprefixer-stylus": "^0.14.0",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.26.12",
     "child_process": "^1.0.2",
     "del": "^5.0.0",
     "gulp": "^4.0.2",
@@ -39,7 +39,7 @@
     "kouto-swiss": "^1.1.0",
     "lodash": "^4.17.19",
     "lodash.merge": "^4.6.2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^4.14.1",
     "rupture": "^0.6.2",
     "stylus": "^0.54.7"
   },

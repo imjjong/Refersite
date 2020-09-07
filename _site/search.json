@@ -1,0 +1,172 @@
+[
+  
+  
+    {
+      "title"    : "Design balance of human &amp; Tech.",
+      "tags"     : "jjong",
+      "categories" : "work",
+      "url"      : "/IndexTitle/",
+      "date"     : "01/01/2020"
+    } ,
+  
+    {
+      "title"    : "Data-driven Design",
+      "tags"     : "jjong",
+      "categories" : "work",
+      "url"      : "/data_driven/",
+      "date"     : "12/29/2019"
+    } ,
+  
+    {
+      "title"    : "Voice Interation design",
+      "tags"     : "jjong",
+      "categories" : "work",
+      "url"      : "/voice_interaction/",
+      "date"     : "12/29/2019"
+    } ,
+  
+    {
+      "title"    : "living deisgn",
+      "tags"     : "jjong",
+      "categories" : "work",
+      "url"      : "/living_design/",
+      "date"     : "11/29/2019"
+    } ,
+  
+    {
+      "title"    : "Kitchen design",
+      "tags"     : "oven",
+      "categories" : "work",
+      "url"      : "/kitchen_design/",
+      "date"     : "11/27/2019"
+    } ,
+  
+    {
+      "title"    : "Transition",
+      "tags"     : "welcome and blog",
+      "categories" : "canvas",
+      "url"      : "/Transition/",
+      "date"     : "05/17/2019"
+    } ,
+  
+    {
+      "title"    : "Collision",
+      "tags"     : "mountains, travel, and adventure",
+      "categories" : "canvas",
+      "url"      : "/Collision/",
+      "date"     : "05/13/2019"
+    } ,
+  
+    {
+      "title"    : "TouchEvent",
+      "tags"     : "books and read",
+      "categories" : "canvas",
+      "url"      : "/TouchEvent/",
+      "date"     : "11/22/2018"
+    } ,
+  
+    {
+      "title"    : "VR roller coaster",
+      "tags"     : "css and tips",
+      "categories" : "interaction",
+      "url"      : "/vr_rollerCoaster/",
+      "date"     : "10/09/2018"
+    } ,
+  
+    {
+      "title"    : "laser Harp",
+      "tags"     : "css and tips",
+      "categories" : "interaction",
+      "url"      : "/laserHarf/",
+      "date"     : "10/09/2018"
+    } ,
+  
+    {
+      "title"    : "Vector",
+      "tags"     : "css and tips",
+      "categories" : "canvas",
+      "url"      : "/1.vector/",
+      "date"     : "10/09/2018"
+    } ,
+  
+    {
+      "title"    : "Candy, candies, candy!",
+      "tags"     : "food and tips",
+      "categories" : "diet",
+      "url"      : "/candy-candies-candy/",
+      "date"     : "04/21/2018"
+    } ,
+  
+    {
+      "title"    : "Trust me, it will work",
+      "tags"     : "languages and tips",
+      "categories" : "tips",
+      "url"      : "/trust-me-it-will-work/",
+      "date"     : "03/12/2018"
+    } ,
+  
+    {
+      "title"    : "How to turn your dog into a Jedi master",
+      "tags"     : "jedi, doggo, and starwars",
+      "categories" : "tutorial",
+      "url"      : "/how-to-turn-your-dog-into-a-jedi-master/",
+      "date"     : "02/03/2018"
+    } ,
+  
+    {
+      "title"    : "Let flexbox work for you or perish",
+      "tags"     : "css and frontend",
+      "categories" : "css",
+      "url"      : "/let-flexbox-work-for-you-or-perish/",
+      "date"     : "08/15/2017"
+    } ,
+  
+    {
+      "title"    : "A star has fallen from the sky and the cat ate it",
+      "tags"     : "crazy and story",
+      "categories" : "music",
+      "url"      : "/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/",
+      "date"     : "08/08/2017"
+    } ,
+  
+    {
+      "title"    : "Smoke alert",
+      "tags"     : "jekyll, wordpress, and blog",
+      "categories" : "blog",
+      "url"      : "/smoke-alert/",
+      "date"     : "07/29/2017"
+    } ,
+  
+    {
+      "title"    : "Do you believe that a spider can dance?",
+      "tags"     : "fate and travel",
+      "categories" : "travel",
+      "url"      : "/do-you-believe-that-a-spider-can-dance/",
+      "date"     : "06/08/2017"
+    } ,
+  
+    {
+      "title"    : "A cook cries in the rain at night",
+      "tags"     : "cook, cucine, and story",
+      "categories" : "diet",
+      "url"      : "/a-cook-cries-in-the-rain-at-night/",
+      "date"     : "06/04/2017"
+    } ,
+  
+    {
+      "title"    : "Grab your band and get out",
+      "tags"     : "music, band, and passion",
+      "categories" : "music",
+      "url"      : "/grab-your-band-and-get-out/",
+      "date"     : "05/11/2017"
+    } ,
+  
+    {
+      "title"    : "Canvas",
+      "tags"     : "css and tips",
+      "categories" : "canvas",
+      "url"      : "/Canvas/",
+      "date"     : "01/01/2009"
+    } 
+  
+]

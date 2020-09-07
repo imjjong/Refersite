@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>/404.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/Front_page/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/about/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/blog/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/canvas/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/code/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/contact/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/css/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/diet/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/feed.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/</loc>
+            
+                <changefreq>weekly</changefreq>
+                <priority>1</priority>
+                <lastmod>2020-09-07</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>/category/interaction/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/javaScript/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/life/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/contact/message-sent/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/music/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/assets/img/icons/preloader.svg</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/assets/img/icons/read.svg</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/search.json</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/sitemap.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/staff/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/tags/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/tips/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/travel/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/tutorial/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/work/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+    
+        <url>
+            <loc>/IndexTitle/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-01-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/data_driven/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-12-29</lastmod>
+        </url>
+    
+        <url>
+            <loc>/voice_interaction/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-12-29</lastmod>
+        </url>
+    
+        <url>
+            <loc>/living_design/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-11-29</lastmod>
+        </url>
+    
+        <url>
+            <loc>/kitchen_design/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-11-27</lastmod>
+        </url>
+    
+        <url>
+            <loc>/Transition/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-05-17</lastmod>
+        </url>
+    
+        <url>
+            <loc>/Collision/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-05-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>/TouchEvent/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-11-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>/vr_rollerCoaster/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-10-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/laserHarf/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-10-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/1.vector/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-10-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/candy-candies-candy/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-04-21</lastmod>
+        </url>
+    
+        <url>
+            <loc>/trust-me-it-will-work/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-03-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>/how-to-turn-your-dog-into-a-jedi-master/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2018-02-03</lastmod>
+        </url>
+    
+        <url>
+            <loc>/let-flexbox-work-for-you-or-perish/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-08-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-08-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>/smoke-alert/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-07-29</lastmod>
+        </url>
+    
+        <url>
+            <loc>/do-you-believe-that-a-spider-can-dance/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-06-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>/a-cook-cries-in-the-rain-at-night/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-06-04</lastmod>
+        </url>
+    
+        <url>
+            <loc>/grab-your-band-and-get-out/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2017-05-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>/Canvas/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2009-01-01</lastmod>
+        </url>
+    
+    
+        <url>
+            <loc>/authors/thiagorossener/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    
+</urlset>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/main.css" />
+    <link rel="stylesheet" href="./css/animation.css" />
+    <style>
+      body {
+        padding: 24px;
+      }
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding: 24px;
+        box-sizing: border-box;
+        /* background-color: black; */
+      }
+      .text-area {
+        /* position: absolute;
+        bottom: 36px;
+        left: 24px; */
+        margin-top: 192px;
+        animation: showText 1s;
+      }
+      .title {
+        margin-bottom: 12px;
+      }
+
+      sup {
+        font-size: 10px;
+      }
+
+      .line {
+        width: 32px;
+        height: 1;
+        border-bottom: 1px solid #ffe6cf;
+        margin: 32px 0;
+        opacity: 0.3;
+      }
+      .content {
+        font-size: 16px;
+        font-weight: normal;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="./issue.html"
+        ><img src="img/icon/arrow-back.svg" alt="back"
+      /></a>
+
+      <img src="img/icon/like.svg" alt="like" />
+    </header>
+    <div class="text-area">
+      <h1 classs="title stagger-item" style="margin-bottom: 12px;">
+        Issues
+        <sup>1</sup>
+      </h1>
+      <p class="stagger-item">
+        We'll make a mobile magazine<br />
+        using html, css only
+      </p>
+    </div>
+    <div class="line stagger-item"></div>
+    <p class="content stagger-item">
+      The first case of COVID-19 in the U.S. state of New York during the
+      pandemic was confirmed on March 1, 2020,[2] and the state quickly became
+      an epicenter of the pandemic, with a record 12,274 new cases reported on
+      April 4.[7] By April 10, New York had more confirmed cases than any other
+      country besides its own,[8] but since then the outbreak has been mostly
+      controlled in the state.[9] As of August 7, 2020, there have been 6.4
+      million tests, 419,642 confirmed cases, and 25,190 confirmed deaths.[3]
+      New York had the highest number of confirmed cases of any state from the
+      start of U.S. outbreak until July 22, when it was surpassed by California
+      and later Florida and Texas.[10][11] In May 2020, nearly one-fourth of
+      known U.S. cases were in New York state (down from one-third in April).[4]
+      More than half of the state's cases were in New York City,[12] where
+      nearly half the state's population lives. Despite the high number of cases
+      in March and April, by May 7 New York had reduced the rate of increase of
+      new cases to less than 1 percent per day, and since June 6 to less than
+      0.25 percent per day. Unlike many other states New York has not seen a
+      spike or "second wave" in the daily new case rate.[13] New York State's
+      response to its serious early COVID-19 outbreak more closely resembles the
+      success of EU countries in bringing the pandemic under control, in
+      contrast to US states like California, Florida, Texas and Arizona that
+      followed President Trump's advice to open the economy early.[14]
+    </p>
+    <nav class="gnb">
+      <a href="./index.html" class="cover mouse-effect">
+        <img src="./img/icon/cover.svg" alt="" />
+      </a>
+      <a href="./issue.html" class="issue mouse-effect">
+        <img src="./img/icon/issue.svg" alt="" />
+      </a>
+      <a href="./like.html" class="like mouse-effect">
+        <img src="./img/icon/like.svg" alt="" />
+      </a>
+      <a href="./myPage.html" class="my mouse-effect active">
+        <img src="./img/icon/more.svg" alt="" />
+      </a>
+    </nav>
+  </body>
+</html>

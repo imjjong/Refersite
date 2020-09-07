@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonghyeok | JJong portfolio</title>
+    <description>저를 소개해요.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 07 Sep 2020 23:47:08 +0900</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2020 23:47:08 +0900</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Design balance of human &amp; Tech.</title>
+        <description>&lt;p&gt;이것은 무엇이오 웹에서 입력가능하옹? 뭐짐 이제되&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/work/oven_img/15_eu_oven_front2.webp&quot; alt=&quot;placeholder_large&quot; title=&quot;Large example image&quot; /&gt;
+&lt;img src=&quot;/assets/img/work/oven_img/15_eu_oven_front3.jpg&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;
+&lt;img src=&quot;/assets/img/work/oven_img/15_eu_oven_front4.jpg&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lphzDnh2BxE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2020 12:01:01 +0900</pubDate>
+        <link>/IndexTitle/</link>
+        <guid isPermaLink="true">/IndexTitle/</guid>
+        
+        <category>jjong</category>
+        
+        <category>work</category>
+      </item>
+    
+      <item>
+        <title>Data-driven Design</title>
+        <description>&lt;p&gt;#데이타을 통해 사용자 행동이나 고려한 디자인 설계를 해보자!
+&lt;img src=&quot;/assets/img/ux/data_driven/intro.png&quot; style=&quot;width:100%;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;picture-slide-in&quot;&gt;Picture Slide-In&lt;/h2&gt;
+
+&lt;div&gt;
+  &lt;div class=&quot;home-title&quot;&gt;
+    &lt;h3&gt;Recent Posts&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;flexslider&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+      
+      &lt;li&gt;
+        &lt;a href=&quot;&quot;&gt;
+          &lt;img src=&quot;/images/cheeze.png&quot; /&gt;
+          &lt;p class=&quot;flex-caption&quot;&gt;Cheeze&lt;/p&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      
+      &lt;li&gt;
+        &lt;a href=&quot;&quot;&gt;
+          &lt;img src=&quot;/images/candy.png&quot; /&gt;
+          &lt;p class=&quot;flex-caption&quot;&gt;Candy&lt;/p&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      
+      &lt;li&gt;
+        &lt;a href=&quot;&quot;&gt;
+          &lt;img src=&quot;/images/cookie.png&quot; /&gt;
+          &lt;p class=&quot;flex-caption&quot;&gt;cookie&lt;/p&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      
+    &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;!-- &lt;p style=&quot;text-align: center;&quot;&gt;
+    &lt;a href=&quot;/posts-page&quot;&gt;See All Posts&lt;/a&gt;
+  &lt;/p&gt; --&gt;
+&lt;/div&gt;
+
+&lt;!-- Flexslider Scripts
+=================================================--&gt;
+&lt;!-- Google CDN Hosted jQuery  --&gt;
+&lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- Flexslider Library  --&gt;
+&lt;script src=&quot;/assets/js/flexslider/jquery.flexslider-min.js&quot;&gt;&lt;/script&gt;
+
+&lt;!-- Initialisation Code  --&gt;
+&lt;script src=&quot;/assets/js/app.js&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Sun, 29 Dec 2019 12:45:07 +0900</pubDate>
+        <link>/data_driven/</link>
+        <guid isPermaLink="true">/data_driven/</guid>
+        
+        <category>jjong</category>
+        
+        <category>work</category>
+      </item>
+    
+      <item>
+        <title>Voice Interation design</title>
+        <description>&lt;div class=&quot;text-and-img&quot; style=&quot;margin-bottom: 48px;&quot;&gt; &lt;iframe width=&quot;40%&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/nWFXbeLGD7k&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;div class=&quot;post-description&quot; style=&quot;width: 50%;&quot;&gt; 보이스 디자이너로 2년간 빅스비 UX 디자인에 참여했습니다. 전사 대비 가전에 보이스 설계에 있어 필요한 내부 설계 원칙에 대한 정리가 없는 문제를 해결하고자 기존 문헌 및 전사 보이스 관련 정책과 가전 정책을 조사하여 수립하여 업무에 직속적인 업데이트가 가능하도록 작성함. &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;voice-principle-wrapper&quot; style=&quot;background-color:black; padding-bottom: 48px;&quot;&gt; &lt;div class=&quot;title&quot; style=&quot;padding-bottom: 0px;&quot;&gt; 가전 Voice interaction&lt;br /&gt; Principe 과제 &lt;/div&gt; &lt;div class=&quot;sub-title&quot; style=&quot;padding-left: 24px;&quot;&gt; 2019년 &lt;/div&gt; &lt;div class=&quot;text-and-img&quot;&gt; &lt;div class=&quot;post-description&quot; style=&quot;width: 50%;&quot;&gt; 가전 내에 보이스 인터랙션 설계에 필요한 원칙 설계 전사 대비 가전에 보이스 설계에...</description>
+        <pubDate>Sun, 29 Dec 2019 12:45:07 +0900</pubDate>
+        <link>/voice_interaction/</link>
+        <guid isPermaLink="true">/voice_interaction/</guid>
+        
+        <category>jjong</category>
+        
+        <category>work</category>
+      </item>
+    
+      <item>
+        <title>living deisgn</title>
+        <description>&lt;style&gt; body{ height: 100%; } &lt;/style&gt; &lt;!-- 로봇처소기 소개 문서 시작 --&gt; &lt;div&gt; &lt;div class=&quot;text-and-img&quot; style=&quot;position: relative;&quot;&gt; &lt;div style=&quot;background-image: url(/images/vacuum/robot3.png); width:40%; height: 27rem; background-size: contain; background-position:right;background-repeat:no-repeat; margin:48px;&quot;&gt; &lt;/div&gt; &lt;div style=&quot;position: absolute; top: 3rem; left: 45%; mix-blend-mode: difference;&quot;&gt; &lt;div class=&quot;title&quot; style=&quot;color: #1d1d1F;&quot;&gt; Robot Vacuum&lt;br /&gt;UX design &lt;/div&gt; &lt;div style=&quot;padding-left: 24px;&quot;&gt; 수행업무: Control Panel UI design, remotre Control design &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;style&gt; .image-gallery { overflow: auto; margin-left: -1% !important; } .image-gallery li { float: left; display: block; margin: 0 0 1% 1%; width: 19%; } .image-gallery li a { text-align: center; text-decoration: none !important; color: #777; } .image-gallery li...</description>
+        <pubDate>Fri, 29 Nov 2019 12:45:07 +0900</pubDate>
+        <link>/living_design/</link>
+        <guid isPermaLink="true">/living_design/</guid>
+        
+        <category>jjong</category>
+        
+        <category>work</category>
+      </item>
+    
+      <item>
+        <title>Kitchen design</title>
+        <description>&lt;!-- &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/ux/ux_post_common.css&quot;/&gt; --&gt; &lt;html&gt; &lt;head&gt; &lt;!-- 내가 만든 CSS 넣어보기 --&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/ux/ux_post_common.css&quot; /&gt; &lt;style&gt; /* Top left text */ .oven-wrapper{ /* margin-left: 24px; */ background-color: black; color:#FFFFFF; } .post-description { position: relative; text-align: left; color: white; } .top-left { position: absolute; bottom: 3rem; right: 3rem; } .oven-wrapper .thumb-left{ width: 50%; /* height: auto; */ /* background-color: black; */ background-image: url(/images/uk_lcd_oven/product.png); background-size: cover; background-position:top; margin-left: 24px; } .oven-wrapper .thumb-center{ width: 100%; height: 400px; background-image: url(/images/uk_lcd_oven/control.png); background-size: cover; background-position:bottom; } &lt;/style&gt; &lt;/head&gt; &lt;/html&gt; &lt;div&gt; &lt;div class=&quot;title&quot; style=&quot;color: #1d1d1F&quot;&gt; 키친 디자인을 위한 &lt;br /&gt; 유럽 식문화 조사 &lt;/div&gt; &lt;div...</description>
+        <pubDate>Wed, 27 Nov 2019 01:43:28 +0900</pubDate>
+        <link>/kitchen_design/</link>
+        <guid isPermaLink="true">/kitchen_design/</guid>
+        
+        <category>oven</category>
+        
+        <category>work</category>
+      </item>
+    
+      <item>
+        <title>Transition</title>
+        <description>&lt;style&gt;
+
+  .post-content iframe {
+    margin-top: 1.875rem;
+    width: 100%;
+    padding: 0px;
+    border :1px solid gray;
+  }
+&lt;/style&gt;
+
+&lt;!-- &lt;iframe src=&quot;https://imjjong.github.io/js_canvas/canvas/defalut_canvas.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;auto&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://imjjong.github.io/js_canvas/canvas/7_4_Mouse_Interaction.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;auto&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://imjjong.github.io/js_canvas/canvas/&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;400&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt; --&gt;
+
+&lt;!-- &lt;iframe src=&quot;https://imjjong.github.io/js_canvas/&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;400&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt; --&gt;
+
+&lt;h4 id=&quot;test&quot;&gt;Test&lt;/h4&gt;
+
+&lt;iframe src=&quot;http://imjjong.woobi.co.kr/transition/transition_1.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;400&quot;&gt;hello&lt;/iframe&gt;
+
+&lt;h4 id=&quot;iframe-test&quot;&gt;Iframe Test&lt;/h4&gt;
+
+&lt;iframe src=&quot;/html/test.html&quot; width=&quot;50%&quot; height=&quot;500rem&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 17 May 2019 08:48:05 +0900</pubDate>
+        <link>/Transition/</link>
+        <guid isPermaLink="true">/Transition/</guid>
+        
+        <category>welcome</category>
+        
+        <category>blog</category>
+        
+        <category>canvas</category>
+      </item>
+    
+      <item>
+        <title>Collision</title>
+        <description>&lt;!-- &lt;h6&gt;Collision&lt;/h6&gt; --&gt;
+
+&lt;iframe src=&quot;https://imjjong.github.io/js_canvas//Teacher/collision3/collision3.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;500rem&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://imjjong.github.io/js_canvas/Teacher/collision2/collision2.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;500rem&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://imjjong.github.io/js_canvas/Teacher/ballPractice/canvas_practice2.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;500rem&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 13 May 2019 04:17:18 +0900</pubDate>
+        <link>/Collision/</link>
+        <guid isPermaLink="true">/Collision/</guid>
+        
+        <category>mountains</category>
+        
+        <category>travel</category>
+        
+        <category>adventure</category>
+        
+        <category>canvas</category>
+      </item>
+    
+      <item>
+        <title>TouchEvent</title>
+        <description>&lt;iframe src=&quot;https://imjjong.github.io/js_canvas/Teacher/ballPractice/canvas_practice2.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;500rem&quot;&gt;hello&lt;/iframe&gt;
+
+&lt;iframe src=&quot;http://www.imjjong.woobi.co.kr/canvas/collision/index.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;400&quot;&gt;hello&lt;/iframe&gt;
+
+&lt;iframe src=&quot;http://imjjong.woobi.co.kr/transition/transition_1.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;400&quot;&gt;hello&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 22 Nov 2018 21:26:40 +0900</pubDate>
+        <link>/TouchEvent/</link>
+        <guid isPermaLink="true">/TouchEvent/</guid>
+        
+        <category>books</category>
+        
+        <category>read</category>
+        
+        <category>canvas</category>
+      </item>
+    
+      <item>
+        <title>VR roller coaster</title>
+        <description>&lt;p&gt;에버랜드 VR롤러코스터 시뮬레이터 협업 신규 컨셉 과제
+시기 : 2017년
+성과 : 에버랜드 협업 C-Lab 과제로 사용자가 직접 설계한 쉽고 빠르게 자신만의 롤로코스터 코스를 만들어 VR 시뮬레이터 탑승하는 체험할 수 있는 시스템을 개발함.
+효과 : 과제 종료 후, 프라나브(Pranav Mistry)가 이끄는 SR 소속 GTTT와 에버랜드에게 컨셉과 시스템에 대해 좋은 평가를 받아 과제이관함.&lt;/p&gt;
+
+&lt;p&gt;레이저 하프&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kw_C7B5ZOnw&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 09 Oct 2018 21:26:40 +0900</pubDate>
+        <link>/vr_rollerCoaster/</link>
+        <guid isPermaLink="true">/vr_rollerCoaster/</guid>
+        
+        <category>css</category>
+        
+        <category>tips</category>
+        
+        <category>interaction</category>
+      </item>
+    
+      <item>
+        <title>laser Harp</title>
+        <description>&lt;p&gt;Laser Harf&lt;/p&gt; &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7MKLACfsiyg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;-2013.11 ~ NEXON COMPUTER MUSEUM&lt;/td&gt; &lt;td&gt;3F Hidden Stage&lt;/td&gt; &lt;td&gt;상시전시 중&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;p&gt;Lab 1.0은 ‘익숙한 것에 의문을 갖고 낯설게 바라보는 것으로부터 변화는 시작된다.’라는 주제로 기획전시 “Museum Remark: Keyboard &amp;amp; Mouse” 를 선보이고 있습니다. Lab 2.0은 이진수로부터 출발한 코딩을 전 연령이 쉽게 경험할 수 있도록 마련된 공간입니다. 아두이노(Arduino)와 코두(KODU), 코드닷오아르지(Code.org) 같은 코딩 교육 소프트웨어뿐 아니라 오조봇(Ozobot), 스페로(Sphero) 등 다양한 코딩 로봇과 블록 코딩을 통해 메이플스토리 핑크빈의 모험이야기를 완성해볼 수 있습니다.&lt;/p&gt; &lt;p&gt;https://nexoncomputermuseum.org/&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://post-phinf.pstatic.net/MjAxODAzMjNfNiAg/MDAxNTIxNzY3NjM0Njgx.AnSg_NzXJ-aMLQlzxsqn3PrkBvHd2fNuYAOToiBNyKcg.PQfKOxfienoiUAPyqq0Y0gb4QfnEw0PRp_Ux96f7yRcg.JPEG/201311__%EB%B0%95%EB%AC%BC%EA%B4%80%EC%99%B8%EA%B4%80.jpg?type=w1200&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;table&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;2013.5...</description>
+        <pubDate>Tue, 09 Oct 2018 21:26:40 +0900</pubDate>
+        <link>/laserHarf/</link>
+        <guid isPermaLink="true">/laserHarf/</guid>
+        
+        <category>css</category>
+        
+        <category>tips</category>
+        
+        <category>interaction</category>
+      </item>
+    
+      <item>
+        <title>Vector</title>
+        <description>&lt;iframe src=&quot;https://imjjong.github.io/js_canvas/nature_of_code/1_vector/1_1_bouncing_ball.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;500rem&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://imjjong.github.io/js_canvas/nature_of_code/1_vector/1_2_mover.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;500rem&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://imjjong.github.io/js_canvas/nature_of_code/1_vector/1_3_acceleratingTowardsThemouse.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;500rem&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt;
+
+&lt;iframe src=&quot;https://imjjong.github.io/js_canvas/nature_of_code/1_vector/1_4_Arrayof moversaccelerating.html&quot; frameborder=&quot;0&quot; width=&quot;auto&quot; height=&quot;500rem&quot; scrolling=&quot;no&quot;&gt;hello&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 09 Oct 2018 21:26:40 +0900</pubDate>
+        <link>/1.vector/</link>
+        <guid isPermaLink="true">/1.vector/</guid>
+        
+        <category>css</category>
+        
+        <category>tips</category>
+        
+        <category>canvas</category>
+      </item>
+    
+      <item>
+        <title>Candy, candies, candy!</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Sat, 21 Apr 2018 21:26:40 +0900</pubDate>
+        <link>/candy-candies-candy/</link>
+        <guid isPermaLink="true">/candy-candies-candy/</guid>
+        
+        <category>food</category>
+        
+        <category>tips</category>
+        
+        <category>diet</category>
+      </item>
+    
+      <item>
+        <title>Trust me, it will work</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Mon, 12 Mar 2018 21:26:40 +0900</pubDate>
+        <link>/trust-me-it-will-work/</link>
+        <guid isPermaLink="true">/trust-me-it-will-work/</guid>
+        
+        <category>languages</category>
+        
+        <category>tips</category>
+        
+        <category>tips</category>
+      </item>
+    
+      <item>
+        <title>How to turn your dog into a Jedi master</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Sat, 03 Feb 2018 21:26:40 +0900</pubDate>
+        <link>/how-to-turn-your-dog-into-a-jedi-master/</link>
+        <guid isPermaLink="true">/how-to-turn-your-dog-into-a-jedi-master/</guid>
+        
+        <category>jedi</category>
+        
+        <category>doggo</category>
+        
+        <category>starwars</category>
+        
+        <category>tutorial</category>
+      </item>
+    
+      <item>
+        <title>Let flexbox work for you or perish</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Tue, 15 Aug 2017 07:55:45 +0900</pubDate>
+        <link>/let-flexbox-work-for-you-or-perish/</link>
+        <guid isPermaLink="true">/let-flexbox-work-for-you-or-perish/</guid>
+        
+        <category>css</category>
+        
+        <category>frontend</category>
+        
+        <category>css</category>
+      </item>
+    
+      <item>
+        <title>A star has fallen from the sky and the cat ate it</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Tue, 08 Aug 2017 08:04:08 +0900</pubDate>
+        <link>/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/</link>
+        <guid isPermaLink="true">/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/</guid>
+        
+        <category>crazy</category>
+        
+        <category>story</category>
+        
+        <category>music</category>
+      </item>
+    
+      <item>
+        <title>Smoke alert</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Sat, 29 Jul 2017 22:24:49 +0900</pubDate>
+        <link>/smoke-alert/</link>
+        <guid isPermaLink="true">/smoke-alert/</guid>
+        
+        <category>jekyll</category>
+        
+        <category>wordpress</category>
+        
+        <category>blog</category>
+        
+        <category>blog</category>
+      </item>
+    
+      <item>
+        <title>Do you believe that a spider can dance?</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Thu, 08 Jun 2017 21:00:00 +0900</pubDate>
+        <link>/do-you-believe-that-a-spider-can-dance/</link>
+        <guid isPermaLink="true">/do-you-believe-that-a-spider-can-dance/</guid>
+        
+        <category>fate</category>
+        
+        <category>travel</category>
+        
+        <category>travel</category>
+      </item>
+    
+      <item>
+        <title>A cook cries in the rain at night</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Sun, 04 Jun 2017 21:00:00 +0900</pubDate>
+        <link>/a-cook-cries-in-the-rain-at-night/</link>
+        <guid isPermaLink="true">/a-cook-cries-in-the-rain-at-night/</guid>
+        
+        <category>cook</category>
+        
+        <category>cucine</category>
+        
+        <category>story</category>
+        
+        <category>diet</category>
+      </item>
+    
+      <item>
+        <title>Grab your band and get out</title>
+        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
+        <pubDate>Thu, 11 May 2017 21:00:00 +0900</pubDate>
+        <link>/grab-your-band-and-get-out/</link>
+        <guid isPermaLink="true">/grab-your-band-and-get-out/</guid>
+        
+        <category>music</category>
+        
+        <category>band</category>
+        
+        <category>passion</category>
+        
+        <category>music</category>
+      </item>
+    
+      <item>
+        <title>Canvas</title>
+        <description>&lt;h3 id=&quot;canvas&quot;&gt;Canvas&lt;/h3&gt; &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;html&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;lang=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;kr&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt; Basic Canvas &lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;style&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;#canvas&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;black&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/style&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;canvas&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;canvas&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/canvas&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;script&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;canvas&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;canvas&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;canvas&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;width&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;innerWidth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;canvas&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/script&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;...</description>
+        <pubDate>Thu, 01 Jan 2009 21:26:40 +0900</pubDate>
+        <link>/Canvas/</link>
+        <guid isPermaLink="true">/Canvas/</guid>
+        
+        <category>css</category>
+        
+        <category>tips</category>
+        
+        <category>canvas</category>
+      </item>
+    
+  </channel>
+</rss>
