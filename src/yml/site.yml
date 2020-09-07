@@ -1,0 +1,14 @@
+name: JJong
+title: Jonghyeok | JJong portfolio
+description: 저를 소개해요.
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+email: lvzerovl@naver.com
+disqus_username: disqus_username
+show_hero: true
+
+paginate: 30

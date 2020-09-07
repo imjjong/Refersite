@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Issue</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="./css/animation.css" />
+    <style>
+      .featured {
+        position: relative;
+        height: 310px;
+        background-color: black;
+        background-image: url("./img/issue-1.jpg");
+        background-size: cover;
+      }
+      .count {
+        position: absolute;
+        top: 30px;
+        right: 26px;
+      }
+      .text-area {
+        position: absolute;
+        bottom: 36px;
+        left: 24px;
+        animation: showText 1s;
+      }
+
+      sup {
+        font-size: 10px;
+      }
+      .swiper {
+        white-space: nowrap;
+        /* nowrap 줄바꿈을 하지 않음 */
+        overflow-x: scroll;
+        /* padding-top: 24px;
+          padding-left: 24px;
+          padding-right: 24px;
+          padding-bottom: 24px; */
+        padding: 25px;
+        padding-bottom: 7px;
+      }
+      .swiper li {
+        width: 136px;
+        height: 80px;
+        background-size: cover;
+        background-position: center;
+        display: inline-block;
+        border-radius: 5px;
+        margin-right: 10px;
+      }
+      .swiper li:nth-child(1) {
+        background-image: url(img/issue-2.jpg);
+      }
+      .swiper li:nth-child(2) {
+        background-image: url(img/issue-3.jpg);
+      }
+      .swiper li:nth-child(3) {
+        background-image: url(img/issue-4.jpg);
+      }
+
+      .item {
+        /* padding-top: 17px;
+        padding-bottom: 20px;
+        padding-left: 24px;
+        padding-right: 24px; */
+        padding: 17px 24px 20px 24px;
+        /* position: relative; */
+        /* border: 1px solid red; */
+        border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+        display: flex;
+        /* 세로 중앙 정렬 */
+        align-items: center;
+        position: relative;
+      }
+      /* Pseudo element */
+      /* .item:after { */
+      /* 내용 부분을 반드시 써줘야 됨 */
+      /* content: "";
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        transition: 0.2s;
+      } */
+      /* .item:hover:after {
+        background-color: rgba(0, 0, 0, 0.12);
+      }
+      .item:active:after {
+        background-color: rgba(0, 0, 0, 0.2);
+      } */
+      /* .item:hover {
+        background-color: red;
+      }
+      .item:active {
+        background-color: blue;
+      } */
+      /* .dimm {
+        background-color: rgba(0, 0, 0, 0.12);
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      } */
+      .item .num {
+        width: 26px;
+        height: 26px;
+        background-color: #ffe6cf;
+        color: #485762;
+        border-radius: 50%;
+        padding: 5px 10px;
+        box-sizing: border-box;
+        /* display: inline-block; */
+        margin-right: 20px;
+        /* position: absolute;
+        top: 50%;
+        margin-top: -13px; */
+      }
+      /* 리스트 설명 */
+      /* .item .infos { */
+        /* display: inline-block;
+        width: 80%; */
+        /* margin-left: 36px; */
+      /* } */
+
+      .item .title {
+        font-size: 17px;
+      }
+      .item .desc {
+        font-size: 10px;
+        opacity: 0.7;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="featured">
+      <h1 class="count">8</h1>
+      <div class="text-area">
+        <h1 classs="title stagger-item" style="margin-bottom: 12px;">
+          Issues
+          <sup>1</sup>
+        </h1>
+        <p class="stagger-item">
+          We'll make a mobile magazine<br />
+          using html, css only
+        </p>
+      </div>
+    </div>
+
+    <ul class="swiper showItemFromRight">
+      <li class="mouse-effect stagger-item right""></li>
+      <li class="mouse-effect stagger-item right""></li>
+      <li class="mouse-effect stagger-item right"></li>
+    </ul>
+    <!-- ol과 ul 차이 리스트에 순서매기기 -->
+    
+    <ul class="list">
+      <a href="./detail.html">
+      <li class="item mouse-effect stagger-item">
+        <!-- <div class="dimm"></div> -->
+        <div class="num">1</div>
+        <div class="infos">
+          <div class="title">Hello World</div>
+          <div class="desc">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+          </div>
+        </div>
+      </li>
+    </a>
+    <a href="./detail.html">
+      <li class="item mouse-effect stagger-item">
+        <div class="num">2</div>
+        <div class="infos">
+          <div class="title">Hello World</div>
+          <div class="desc">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+          </div>
+        </div>
+      </li>
+    </a>
+    <a href="./detail.html">
+      <li class="item mouse-effect stagger-item">
+        <div class="num">3</div>
+        <div class="infos">
+          <div class="title">Hello World</div>
+          <div class="desc">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry.
+          </div>
+        </div>
+      </li>
+    </a>
+    </ul>
+  
+
+    <nav class="gnb">
+      <a href="./index.html" class="cover mouse-effect">
+        <img src="./img/icon/cover.svg" alt="" />
+      </a>
+      <a href="./issue.html" class="issue mouse-effect active">
+        <img src="./img/icon/issue.svg" alt="" />
+      </a>
+      <a href="./like.html" class="like mouse-effect">
+        <img src="./img/icon/like.svg" alt="" />
+      </a>
+      <a href="./myPage.html" class="my mouse-effect">
+        <img src="./img/icon/more.svg" alt="" />
+      </a>
+    </nav>
+  </body>
+</html>
